@@ -15,7 +15,7 @@ description: "<h3>Hello, world! Welcome to:</h3><h1>Jim's Dev Journal</h1><h3>A 
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jimafisk.github.io/devjounral" # the base hostname & protocol for your site
+url: "http://jimafisk.github.io/devjournal" # the base hostname & protocol for your site
 twitter_username: jimafisk
 github_username:  jimafisk
 
