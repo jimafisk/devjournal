@@ -4,7 +4,7 @@ permalink: "/download/"
 layout: page
 ---
 
-<span class="page-tagline">Loved it? Download DevJournal</span>
+<span class="page-tagline">Loved it? yup Download DevJournal</span>
 
 
 
