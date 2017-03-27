@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Download
-permalink: /download/
+permalink: "/download/"
+layout: page
 ---
 
 <span class="page-tagline">Loved it? Download DevJournal</span>

@@ -1,9 +1,12 @@
 ---
+title: Or maybe give them a read :)
+date: 2016-05-12 16:31:43 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Or maybe give them a read :)"
-date:   2016-05-12 22:01:43 +0530
-categories: jekyll update
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 <script src="https://www.dntly.com/assets/js/v1/form.js" data-donately-id="act_0b965f02186e" data-donately-presets="50, 100, 500, 1000" ></script>
