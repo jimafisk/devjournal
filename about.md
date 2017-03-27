@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-<div class="man-title">
+Edited!!!!!!!!!!!!!!!!!!!!<div class="man-title">
   Hi Yalz UP AND RUNNING WITH DevJournal
 </div>
 <div class="manual manual-title">
