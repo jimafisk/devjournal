@@ -5,7 +5,7 @@ layout: page
 ---
 
 <div class="man-title">
-  UP AND RUNNING WITH DevJournal
+  TEST UP AND RUNNING WITH DevJournal
 </div>
 <div class="manual manual-title">
   Posting
