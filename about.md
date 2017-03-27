@@ -5,7 +5,7 @@ layout: page
 ---
 
 <div class="man-title">
-  Jim Saya!! UP AND RUNNING WITH DevJournal
+  Hi Yalz UP AND RUNNING WITH DevJournal
 </div>
 <div class="manual manual-title">
   Posting
